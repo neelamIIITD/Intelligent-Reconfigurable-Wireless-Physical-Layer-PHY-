@@ -6,3 +6,5 @@ Features
 Dynamic Reconfiguration: Utilizes FPGA capabilities for on-the-fly changes in processing logic based on the channel conditions.
 Modulation Schemes: Supports QPSK, 16-QAM, and 64-QAM modulation schemes dynamically switchable according to the algorithmic control.
 Signal Processing Blocks: Includes IFFT/FFT operations, pilot insertion, synchronization, and more, implemented through a mix of Xilinx IP cores and custom Verilog modules.
+
+I would like to thank the T. H. Pham(https://github.com/phthinh)for some base source codes used in the implementation of wireless PHY.
